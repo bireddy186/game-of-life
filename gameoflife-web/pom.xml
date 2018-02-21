@@ -17,7 +17,7 @@
     </properties>
 
     <build>
-        <finalName>gameoflife</finalName>
+        <finalName>game-of-life-Laddu.war</finalName>
         <resources>
             <resource>
                 <directory>src/main/resources</directory>
